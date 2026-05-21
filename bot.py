@@ -16,7 +16,7 @@ from telegram.ext import (
 # ============================================================
 #  ⚙️  Railway Variables-এ BOT_TOKEN বসান
 # ============================================================
-BOT_TOKEN = os.environ.get("8917255746:AAGwRMy5KQo1x_Dr-aVP7ypHoWt4gTekB0g")
+BOT_TOKEN = os.environ.get("BOT_TOKEN")
 # ============================================================
 
 logging.basicConfig(
